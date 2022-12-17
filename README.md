@@ -28,14 +28,14 @@ Soon to come.
 Code snippets, see below:
 
 ```html
-        <div class="main-content">
-            <div class="main-text">
-                <h1>Hi, I'm <span>John <br> Haab</span></h1>
-                <h4>FRONTEND DEVELOPER</h4>
-                <p>Professional web development & design <br> with a focus on frontend development.</p>
-                <img src="/assets/images/memoji.png" width="210px">
-            </div>
-        </div>
+<div class="main-content">
+  <div class="main-text">
+    <h1>Hi, I'm <span>John <br> Haab</span></h1>
+    <h4>FRONTEND DEVELOPER</h4>
+    <p>Professional web development & design <br> with a focus on frontend development.</p>
+    <img src="/assets/images/memoji.png" width="210px">
+  </div>
+</div>
 ```
 ```css
 .main-content {
