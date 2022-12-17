@@ -1,20 +1,8 @@
-# My website, a sleek & modern theme.
-
-## Table of contents
-
-- [Overview](#overview)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-  - [Built with](#built-with)
-  - [Author](#author)
-
-## Overview
-
-Soon to come.
-
-### Screenshot
-
 ![](/assets/images/screenshot.png)
+
+### Overview
+
+Coming soon.
 
 ### Links
 
