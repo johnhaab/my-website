@@ -1,2 +1,0 @@
-Main: #AECAF7 -- light blue
-Background: #FBFEFC -- off-white
